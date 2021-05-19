@@ -1,32 +1,32 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello",
-      "content":"I would try to demonstrate that i could to this website",
-      "authorId":"author1"
-    },
-    
-    {
-      "id": 2,
-      "title": "how are",
-      "content":"I would try to to demonstrate that i could website  this ",
-      "authorId":"author1"
-    },
-    {
-      "id": 3,
-      "title": "you",
-      "content":"I demonstrate would try  i could to to  that this website",
-      "authorId":"author1"
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello",
+        "content":"I would try to demonstrate that i could to this website",
+        "authorId":"author1"
+      },
+      
+      {
+        "id": 2,
+        "title": "how are",
+        "content":"I would try to to demonstrate that i could website  this ",
+        "authorId":"author1"
+      },
+      {
+        "id": 3,
+        "title": "you",
+        "content":"I demonstrate would try  i could to to  that this website",
+        "authorId":"author1"
+      }
+    ],
+    "authors" : [
+      {
+      "id":"author1",
+        "name": "theophile"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
     }
-  ],
-  "authors" : [
-    {
-    "id":"author1",
-      "name": "theophile",
-    }
-  ],
-  "profile": {
-    "name": "typicode"
   }
-}
